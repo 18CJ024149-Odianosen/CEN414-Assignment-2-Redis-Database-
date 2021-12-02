@@ -1,0 +1,59 @@
+Id,Country Code,Year,"Number of Homicides per 100,000",Country
+1,ALG,2013,6565,Algeria
+2,ANG,2013,456,Angola
+3,BEN,2013,454,Benin
+4,BOT,2013,65,Botswana
+5,BUF,2013,87,Burkina Faso
+6,BUR,2013,54,Burundi
+7,CAV,2013,76,Cabo Verde
+8,CAM,2013,63,Cameroon
+9,CAR,2013,67,Central African Republic
+10,CHA,2013,54,Chad
+11,COM,2013,36,Comoros
+12,CON,2013,85,Congo
+13,CIV,2013,75,Cote d'Ivoire
+14,DRC,2013,75,Democratic Republic of the Congo
+15,DJI,2013,75,Djibouti
+16,EGY,2013,7554,Egypt
+17,EQG,2013,87,Equatorial Guinea
+18,ERI,2013,43,Eritrea
+19,ESW,2013,30,Eswatini
+20,ETH,2013,43,Ethiopia
+21,GAB,2013,56,Gabon
+22,GAM,2013,34,Gambia
+23,GHA,2013,434,Ghana
+24,GUI,2013,66,Guinea
+25,GUB,2013,67,Guinea-Bissau
+26,KEN,2013,65,Kenya
+27,LES,2013,45,Lesotho
+28,LIR,2013,34,Liberia
+29,LIB,2013,776,Libya
+30,MAD,2013,35,Madagascar
+31,MAW,2013,43,Malawi
+32,MAL,2013,109,Mali
+33,MAU,2013,34,Mauritania
+34,MAR,2013,25,Mauritius
+35,MAY,2013,23,Mayotte
+36,MOR,2013,876,Morocco
+37,MOZ,2013,34,Mozambique
+38,NAM,2013,45,Namibia
+39,NIG,2013,987,Niger
+40,NIR,2013,9877,Nigeria
+41,REU,2013,34,Reunion
+42,RWA,2013,566,Rwanda
+43,SAH,2013,6,Saint Helena
+44,STP,2013,7,Sao Tome and Principe
+45,SEN,2013,87,Senegal
+46,SEY,2013,8,Seychelles
+47,SIL,2013,44,Sierra Leone
+48,SOM,2013,8787,Somalia
+49,SAR,2013,7677,South Africa
+50,SOS,2013,987,South Sudan
+51,SUD,2013,876,Sudan
+52,TOG,2013,54,Togo
+53,TUN,2013,65,Tunisia
+54,UGA,2013,566,Uganda
+55,URT,2013,666,United Republic of Tanzania
+56,WES,2013,97,Western Sahara
+57,ZAM,2013,76,Zambia
+58,ZIM,2013,87,Zimbabwe

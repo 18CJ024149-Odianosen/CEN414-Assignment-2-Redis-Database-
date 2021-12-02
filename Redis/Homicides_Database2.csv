@@ -1,0 +1,59 @@
+Id,Country Code,Year,"Number of Homicides per 100,000",Country
+1,ALG,2011,4456,Algeria
+2,ANG,2011,545,Angola
+3,BEN,2011,334,Benin
+4,BOT,2011,56,Botswana
+5,BUF,2011,76,Burkina Faso
+6,BUR,2011,67,Burundi
+7,CAV,2011,76,Cabo Verde
+8,CAM,2011,76,Cameroon
+9,CAR,2011,67,Central African Republic
+10,CHA,2011,76,Chad
+11,COM,2011,76,Comoros
+12,CON,2011,21,Congo
+13,CIV,2011,54,Cote d'Ivoire
+14,DRC,2011,21,Democratic Republic of the Congo
+15,DJI,2011,34,Djibouti
+16,EGY,2011,5466,Egypt
+17,EQG,2011,87,Equatorial Guinea
+18,ERI,2011,35,Eritrea
+19,ESW,2011,30,Eswatini
+20,ETH,2011,45,Ethiopia
+21,GAB,2011,56,Gabon
+22,GAM,2011,34,Gambia
+23,GHA,2011,65,Ghana
+24,GUI,2011,55,Guinea
+25,GUB,2011,23,Guinea-Bissau
+26,KEN,2011,90,Kenya
+27,LES,2011,45,Lesotho
+28,LIR,2011,34,Liberia
+29,LIB,2011,34,Libya
+30,MAD,2011,56,Madagascar
+31,MAW,2011,65,Malawi
+32,MAL,2011,54,Mali
+33,MAU,2011,32,Mauritania
+34,MAR,2011,25,Mauritius
+35,MAY,2011,23,Mayotte
+36,MOR,2011,577,Morocco
+37,MOZ,2011,34,Mozambique
+38,NAM,2011,45,Namibia
+39,NIG,2011,301,Niger
+40,NIR,2011,10980,Nigeria
+41,REU,2011,34,Reunion
+42,RWA,2011,67,Rwanda
+43,SAH,2011,6,Saint Helena
+44,STP,2011,0,Sao Tome and Principe
+45,SEN,2011,54,Senegal
+46,SEY,2011,8,Seychelles
+47,SIL,2011,44,Sierra Leone
+48,SOM,2011,8767,Somalia
+49,SAR,2011,7677,South Africa
+50,SOS,2011,987,South Sudan
+51,SUD,2011,876,Sudan
+52,TOG,2011,54,Togo
+53,TUN,2011,65,Tunisia
+54,UGA,2011,566,Uganda
+55,URT,2011,666,United Republic of Tanzania
+56,WES,2011,44,Western Sahara
+57,ZAM,2011,65,Zambia
+58,ZIM,2011,65,Zimbabwe

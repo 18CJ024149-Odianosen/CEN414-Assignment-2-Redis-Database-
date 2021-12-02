@@ -1,0 +1,59 @@
+Id,Country Code,Year,"Number of Homicides per 100,000",Country
+1,ALG,2018,4633,Algeria
+2,ANG,2018,645,Angola
+3,BEN,2018,754,Benin
+4,BOT,2018,75,Botswana
+5,BUF,2018,86,Burkina Faso
+6,BUR,2018,86,Burundi
+7,CAV,2018,76,Cabo Verde
+8,CAM,2018,86,Cameroon
+9,CAR,2018,86,Central African Republic
+10,CHA,2018,76,Chad
+11,COM,2018,85,Comoros
+12,CON,2018,134,Congo
+13,CIV,2018,75,Cote d'Ivoire
+14,DRC,2018,75,Democratic Republic of the Congo
+15,DJI,2018,87,Djibouti
+16,EGY,2018,5554,Egypt
+17,EQG,2018,64,Equatorial Guinea
+18,ERI,2018,67,Eritrea
+19,ESW,2018,57,Eswatini
+20,ETH,2018,75,Ethiopia
+21,GAB,2018,47,Gabon
+22,GAM,2018,75,Gambia
+23,GHA,2018,746,Ghana
+24,GUI,2018,47,Guinea
+25,GUB,2018,85,Guinea-Bissau
+26,KEN,2018,85,Kenya
+27,LES,2018,85,Lesotho
+28,LIR,2018,53,Liberia
+29,LIB,2018,567,Libya
+30,MAD,2018,54,Madagascar
+31,MAW,2018,45,Malawi
+32,MAL,2018,65,Mali
+33,MAU,2018,65,Mauritania
+34,MAR,2018,65,Mauritius
+35,MAY,2018,65,Mayotte
+36,MOR,2018,643,Morocco
+37,MOZ,2018,64,Mozambique
+38,NAM,2018,63,Namibia
+39,NIG,2018,635,Niger
+40,NIR,2018,9943,Nigeria
+41,REU,2018,34,Reunion
+42,RWA,2018,654,Rwanda
+43,SAH,2018,6,Saint Helena
+44,STP,2018,6,Sao Tome and Principe
+45,SEN,2018,64,Senegal
+46,SEY,2018,4,Seychelles
+47,SIL,2018,76,Sierra Leone
+48,SOM,2018,7543,Somalia
+49,SAR,2018,7543,South Africa
+50,SOS,2018,643,South Sudan
+51,SUD,2018,754,Sudan
+52,TOG,2018,64,Togo
+53,TUN,2018,63,Tunisia
+54,UGA,2018,75,Uganda
+55,URT,2018,764,United Republic of Tanzania
+56,WES,2018,64,Western Sahara
+57,ZAM,2018,64,Zambia
+58,ZIM,2018,57,Zimbabwe
